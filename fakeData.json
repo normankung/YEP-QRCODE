@@ -1,0 +1,32 @@
+[{
+        "name": "norman",
+        "phone": "123455678",
+        "serialNumber": "1234432",
+        "no": "1"
+    },
+    {
+        "name": "ian",
+        "phone": "123455678",
+        "serialNumber": "1234432",
+        "no": "2"
+    },
+    {
+        "name": "arey",
+        "phone": "123455678",
+        "serialNumber": "1234432",
+        "no": "1"
+    },
+    {
+        "name": "krystal",
+        "phone": "123455678",
+        "serialNumber": "1234432",
+        "no": "1"
+    },
+    {
+        "name": "nina",
+        "phone": "123455678",
+        "serialNumber": "1234432",
+        "no": "1"
+    }
+
+]

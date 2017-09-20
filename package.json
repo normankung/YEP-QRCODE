@@ -1,0 +1,26 @@
+{
+  "name": "yep-qrcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normankung/YEP-QRCODE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/normankung/YEP-QRCODE/issues"
+  },
+  "homepage": "https://github.com/normankung/YEP-QRCODE#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.4",
+    "fs-extra": "^2.0.0",
+    "mongoose": "^4.11.5",
+    "qrcode": "^0.9.0"
+  }
+}
